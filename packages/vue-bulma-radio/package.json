@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-radio",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The mutually exclusive radio buttons in their native format",
   "keywords": [
     "vue",

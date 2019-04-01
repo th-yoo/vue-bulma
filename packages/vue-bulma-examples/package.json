@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-examples",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Fangdun Cai <cfddream@gmail.com>",
   "homepage": "https://github.com/vue-bulma/vue-bulma#readme",
@@ -25,7 +25,7 @@
     "bulma": "^0.7.4",
     "highlight.js": "^9.13.1",
     "vue": "^2.5.22",
-    "vue-bulma": "^0.0.0",
+    "vue-bulma": "^0.0.1",
     "vue-router": "^3.0.2"
   }
 }

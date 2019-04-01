@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-container",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple container to center your content horizontally",
   "author": "Fangdun Cai <cfddream@gmail.com>",
   "homepage": "https://github.com/vue-bulma/vue-bulma/packages/vue-bulma-container#readme",

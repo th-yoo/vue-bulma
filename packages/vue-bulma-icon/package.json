@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-icon",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Icons take an important role of any application",
   "author": "Guoxiao Cai <a304775438@aliyun.com>",
   "homepage": "https://github.com/vue-bulma/vue-bulma/packages/vue-bulma-icon#readme",
@@ -12,6 +12,6 @@
   "dependencies": {
     "bulma": "^0.7.2",
     "font-awesome": "^4.7.0",
-    "vue-bulma-common": "^0.0.0"
+    "vue-bulma-common": "^0.0.1"
   }
 }

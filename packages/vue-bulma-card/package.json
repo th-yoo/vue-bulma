@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-card",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An all-around flexible and composable component",
   "keywords": [
     "vue",
@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "bulma": "^0.7.2",
-    "vue-bulma-icon": "^0.0.0",
-    "vue-bulma-image": "^0.0.0"
+    "vue-bulma-icon": "^0.0.1",
+    "vue-bulma-image": "^0.0.1"
   }
 }

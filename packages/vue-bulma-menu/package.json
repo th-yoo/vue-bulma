@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-menu",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple vertical navigation",
   "keywords": [
     "vue",
@@ -16,6 +16,6 @@
   ],
   "dependencies": {
     "bulma": "^0.7.2",
-    "vue-bulma-icon": "^0.0.0"
+    "vue-bulma-icon": "^0.0.1"
   }
 }

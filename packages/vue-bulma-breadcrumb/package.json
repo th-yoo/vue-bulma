@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-breadcrumb",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple breadcrumb component",
   "keywords": [
     "vue",
@@ -16,6 +16,6 @@
   ],
   "dependencies": {
     "bulma": "^0.7.2",
-    "vue-bulma-common": "^0.0.0"
+    "vue-bulma-common": "^0.0.1"
   }
 }
