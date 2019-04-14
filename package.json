@@ -19,7 +19,7 @@
   "scripts": {
     "lerna": "lerna",
     "bootstrap": "lerna bootstrap",
-    "dev": "cd packages/vue-bulma-examples ; vue-cli-service serve",
+    "dev": "cd packages/vue-bulma-examples && npx vue-cli-service serve",
     "format": "prettier --write packages/**/**/*"
   },
   "husky": {

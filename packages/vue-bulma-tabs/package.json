@@ -10,6 +10,6 @@
     "src"
   ],
   "dependencies": {
-    "bulma": "^0.7.2"
+    "bulma": "^0.7.4"
   }
 }

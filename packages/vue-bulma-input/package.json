@@ -15,7 +15,7 @@
     "src"
   ],
   "dependencies": {
-    "bulma": "^0.7.2",
+    "bulma": "^0.7.4",
     "vue-bulma-common": "^0.0.1",
     "vue-bulma-icon": "^0.0.1"
   }
